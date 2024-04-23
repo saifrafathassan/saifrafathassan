@@ -8,7 +8,7 @@
 
 <h3 align="left">Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,git,tailwind,figma&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Socials</h3>
 <p align="left">
